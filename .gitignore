@@ -1,0 +1,5 @@
+virtualenv
+private_const.py
+scripts/run.sh
+*.pyc
+*.log
